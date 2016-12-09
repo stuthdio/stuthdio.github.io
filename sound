@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Stuthdio</title>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+		<link rel="stylesheet" href="css/main.css"/>
+		<noscript><link rel="stylesheet" href="css/noscript.css"/></noscript>
+	</head>
+	<body>
+		<div id="wrapper">
+			<header id="header">
+				<div class="logo">
+					<span class="ASTUTH LOGoO"></span>
+				</div>
+				<div class="content">
+					<div class="inner">
+						<h1>Sound</h1>
+					</div>
+				</div>
+				<nav>
+					<ul>
+						<li><a href="Stecker">Stecker</a></li>
+						<li><a href="Sachem">Sachem</a></li>
+						<li><a href="RedRover">Red Rover</a></li>
+						<li><a href="Bigelow">Bigelow</a></li>
+					</ul>
+				</nav>
+			</header>
+		</div>
+	</body>
+</html>
